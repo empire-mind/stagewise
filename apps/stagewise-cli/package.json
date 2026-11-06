@@ -19,7 +19,7 @@
     "@stagewise/agent-core": "workspace:*",
     "@stagewise/agent-shell": "workspace:*",
     "ai": "6.0.177",
-    "zod": "4.3.5"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@stagewise/typescript-config": "workspace:*",
